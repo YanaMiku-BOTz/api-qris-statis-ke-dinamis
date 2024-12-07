@@ -1,5 +1,3 @@
----
-
 # Dokumentasi API QRIS Dinamis
 
 API ini memungkinkan Anda untuk mengonversi kode QRIS statis menjadi kode QRIS dinamis, yang dapat digunakan untuk transaksi pembayaran dengan menambahkan jumlah dan biaya layanan. API ini akan menerima parameter tertentu dan menghasilkan QRIS dinamis yang siap digunakan.
@@ -108,5 +106,3 @@ Terima kasih telah menggunakan API QRIS Dinamis!
 ### Penjelasan tambahan:
 1. **Akses API**: API ini dapat diakses publik, namun Anda bisa menambahkan autentikasi jika diperlukan untuk akses yang lebih aman.
 2. **Penggunaan dalam Aplikasi**: Anda bisa menggunakan API ini dalam aplikasi atau platform pembayaran yang membutuhkan QRIS dinamis untuk transaksi.
-
----
