@@ -98,9 +98,9 @@ API akan mengembalikan QRIS dinamis yang dapat dipindai untuk melakukan pembayar
 
 ---
 
-Jika ada pertanyaan lebih lanjut atau jika Anda mengalami kesulitan, silakan hubungi kami di [support@yanamiku.xyz].
+Jika ada pertanyaan lebih lanjut atau jika Anda mengalami kesulitan, silakan hubungi kami di (WhatsApp)[https://wa.me/6285793589243].
 
-Terima kasih telah menggunakan API QRIS Dinamis!
+Jangan Lupa Klik Star🌟 & Follow yaaa!
 
 ---
 
