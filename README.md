@@ -27,7 +27,7 @@ GET https://api-qris-static-to-dynamic.vercel.app/api/orderkuota/cqris?amount=50
 #### Contoh Request
 
 ```
-GET https://api-qris-static-to-dynamic.vercel.app/api/orderkuota/cqris?amount=50000&fee=1000&codeqr=QRIS_CODE
+GET https://api-qris-static-to-dynamic.vercel.app/api/orderkuota/cqris?amount=50000&fee=1000&codeqr=00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214107456374359710303UMI51440014ID.CO.QRIS.WWW0215ID20232494105490303UMI5204511153033605802ID5912YANAMIKUBOTZ6005TEGAL61055211162070703A016304F0A6
 ```
 
 #### Contoh Response
