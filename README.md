@@ -38,6 +38,7 @@ Jika permintaan berhasil, Anda akan menerima respons JSON yang berisi informasi 
 {
   "status": true,
   "creator": "YanaMiku",
+  "mess": "Berhasil Membuat QRIS",
   "result": {
     "amount": 50000,
     "fee": 1000,
@@ -52,11 +53,11 @@ Jika permintaan berhasil, Anda akan menerima respons JSON yang berisi informasi 
 #### Penjelasan Response
 
 - **status**: Status dari permintaan. `true` berarti permintaan berhasil, `false` berarti ada kesalahan.
-- **creator**: Nama pembuat API atau aplikasi.
+- **creator**: Nama pembuat API.
 - **result**:
   - **amount**: Jumlah yang diminta untuk pembayaran.
   - **fee**: Biaya tambahan yang ditambahkan ke jumlah pembayaran.
-  - **created_at**: Waktu ketika QRIS dinamis dibuat (format ISO 8601).
+  - **created_at**: Waktu ketika QRIS dinamis dibuat (Asia/Jakarta).
   - **totalAmount**: Total jumlah pembayaran yang termasuk biaya tambahan.
   - **qrString**: QRIS dinamis yang dihasilkan dalam format string.
   - **status**: Status transaksi, misalnya `pending` jika status pembayaran belum selesai.
